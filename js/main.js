@@ -8,7 +8,7 @@ let getPosts = async (apiLink) => {
 };
 
 getPosts("https://jsonplaceholder.typicode.com/posts").then((posts) => {
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 12; i++) {
         // Create Card div
         let card = document.createElement("div");
         card.className = "card";

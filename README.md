@@ -23,7 +23,7 @@ You need to have the following installed on your system:
 ## Built With
 
 -   HTML, CSS and JavaSrcript
--   [Third-party API]([https://jsonplaceholder.typicode.com/posts]) - Used to get up-to-date Github repositories
+-   [Third-party API] [https://jsonplaceholder.typicode.com/posts] - Used to get up-to-date Github repositories
 
 ## Contributing
 
